@@ -11,6 +11,6 @@ A simple chrome extension for verifying Shaparak gateways and protecting users a
 - **Firefox**: https://addons.mozilla.org/en-US/firefox/addon/shaparak-verifier/ (By [imohamaad](https://github.com/imohamaad/Shaparak-Verifier-for-firefox))
 
 ## To-Do
-- [] Change manifest version to v3.0
-- [] Rewrite README file
-- [] Improve UI
+- [ ] Change manifest version to v3.0
+- [ ] Rewrite README file
+- [ ] Improve UI
